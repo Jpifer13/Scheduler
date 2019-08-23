@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "buildersql.capcom.tourtech.com",
+    "port": 5432,
+    "username": "tourtech",
+    "password": "Raleigh1723!",
+    "database": "scheduler",
+    "entities": ["src/**/*.entity{.ts,.js}"],
+    "synchronize": true,
+    "logging": true
+  }
